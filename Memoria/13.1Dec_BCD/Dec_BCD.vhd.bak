@@ -1,0 +1,29 @@
+library IEEE;
+use IEEE.std_logic_1164.all;
+
+entity Dec_BCD is
+	port
+	(
+		numero : in std_logic_vector (3 downto 0);
+		segmentos : out std_logic_vector (7 downto 0)
+	);
+end Dec_BCD;
+
+
+architecture arch_Dec_BCD of Dec_BCD is
+
+begin
+
+	segmentos	<= "0111111" when numero = "0000" else
+						"0000110" when numero = "0001" else
+						"1011011" when numero = "0010" else
+						"1001111" when numero = "0011" else
+						"1100110" when numero = "0100" else
+						"1101101" when numero = "0101" else
+						"1111100" when numero = "0110" else
+						"0000111" when numero = "0111" else
+						"1111111" when numero = "1000" else
+						"1100111" when numero = "1001" else
+						"0000000"
+
+end arch_Dec_BCD;
