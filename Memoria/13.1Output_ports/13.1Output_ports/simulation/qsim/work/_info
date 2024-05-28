@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1Output_ports\simulation\qsim
+vOutput_ports
+Z1 IR1UnOl8CD7i^PK;cFkObg1
+Z2 VzF8<JQLEl?ncA3XCj4d_[0
+Z3 dC:\Users\USUARIO\Downloads\13.1Output_ports\13.1Output_ports\simulation\qsim
+Z4 w1716603865
+Z5 8Output_ports.vo
+Z6 FOutput_ports.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|Output_ports.vo|
+Z9 o-work work -O0
+Z10 n@output_ports
+!i10b 1
+Z11 !s100 LlB80SNMF?_BP[THDZWf51
+!s85 0
+Z12 !s108 1716603867.575000
+Z13 !s107 Output_ports.vo|
+!s101 -O0
+vOutput_ports_vlg_check_tst
+!i10b 1
+Z14 !s100 :C8jP0gCN:]k_7]PX8bgo3
+Z15 Ig;:8E:9:]lFhjIf]]6OJF2
+Z16 VLChlDlmieCH`2g98Kh6HM2
+R3
+R4
+Z17 8Waveform.vwf.vt
+Z18 FWaveform.vwf.vt
+L0 65
+R7
+r1
+!s85 0
+31
+Z19 !s108 1716603867.632000
+Z20 !s107 Waveform.vwf.vt|
+Z21 !s90 -work|work|Waveform.vwf.vt|
+!s101 -O0
+R9
+Z22 n@output_ports_vlg_check_tst
+vOutput_ports_vlg_sample_tst
+!i10b 1
+Z23 !s100 H?n7hnViAKhz]E_[z8:JD2
+Z24 IQ=;BW^b]hTS`e;HCfF0I?2
+Z25 VJB7A@VTTV0L1aMHJcQY`g2
+R3
+R4
+R17
+R18
+L0 29
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9
+Z26 n@output_ports_vlg_sample_tst
+vOutput_ports_vlg_vec_tst
+!i10b 1
+!s100 ibeA@Q[RS0>S^e662Zoh81
+IbE?@WC4^mfQ4`NLl90PWQ1
+Z27 VC3IMabJDGM>b;U[_EQN421
+R3
+R4
+R17
+R18
+Z28 L0 437
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9
+Z29 n@output_ports_vlg_vec_tst

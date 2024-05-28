@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1memory\simulation\qsim
+vmemory
+Z1 !s100 PkL;K12ejKhV0JLVVKb4f1
+Z2 IFzzRE1]OlUMofQ>R8D1H03
+Z3 Vkc[8DN_OYDnTFBa4jGIFR3
+Z4 dC:\Users\USUARIO\Downloads\13.1memory\13.1memory\simulation\qsim
+Z5 w1716606352
+Z6 8memory.vo
+Z7 Fmemory.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|memory.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1716606352.858000
+Z12 !s107 memory.vo|
+!s101 -O0
+vmemory_vlg_check_tst
+!i10b 1
+Z13 !s100 hh5JmOoWzA<MGKG1j>PT41
+Z14 IzO1LNT0B8=6Q<=80VFWYW0
+Z15 Vd;@5Qg9L2GZ?H3V>HgbN51
+R4
+Z16 w1716606350
+Z17 8Waveform.vwf.vt
+Z18 FWaveform.vwf.vt
+L0 69
+R8
+r1
+!s85 0
+31
+Z19 !s108 1716606353.224000
+Z20 !s107 Waveform.vwf.vt|
+Z21 !s90 -work|work|Waveform.vwf.vt|
+!s101 -O0
+R10
+vmemory_vlg_sample_tst
+!i10b 1
+Z22 !s100 ;5a5jAN9`^;3?6YY8ShnU2
+Z23 IK>1@FfHkVZ>:S1J518XM:0
+Z24 V[7?MNlz3oVOH>4IePLjUU0
+R4
+R16
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+vmemory_vlg_vec_tst
+!i10b 1
+Z25 !s100 3gJCGh7C4T4S7J[K[XO[01
+Z26 IXHmagYZS0cOPzJJi?FezR2
+Z27 VJA9X:jaS8d0eAaocQHkG70
+R4
+R16
+R17
+R18
+Z28 L0 593
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
